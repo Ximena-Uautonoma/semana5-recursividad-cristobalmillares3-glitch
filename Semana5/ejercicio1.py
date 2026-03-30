@@ -7,10 +7,10 @@ Debe implementar dos funciones:
 """
 
 def contar_ciclo(n):
-    ciclo ()
+    ciclo[]
     for i in range(1, 1+n):
+        ciclo
         1234
-        
     pass
 
 
