@@ -10,6 +10,7 @@ def contar_ciclo(n):
     ciclo ()
     for i in range(1, 1+n):
         1234
+        
     pass
 
 
